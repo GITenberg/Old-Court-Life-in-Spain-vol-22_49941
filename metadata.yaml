@@ -1,4 +1,8 @@
 _repo: Old-Court-Life-in-Spain-vol-22_49941
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49941-h/images/cover.jpg
 creator:
   author:
     agent_name: Elliot, Frances Minto Dickinson
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '3248'
     url: http://www.gutenberg.org/2009/agents/3248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49941#Old-Court-Life-in-Spain-vol-22
 gutenberg_issued: '2015-09-11'
 gutenberg_type: Text
 identifiers:
